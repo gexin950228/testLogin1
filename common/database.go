@@ -2,7 +2,7 @@ package common
 
 import (
 	"fmt"
-	"testLogin/model"
+	"testLogin1/model"
 
 	"github.com/jinzhu/gorm"
 )

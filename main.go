@@ -3,7 +3,7 @@ package main
 import (
 	"github.com/gin-gonic/gin"
 	_ "github.com/go-sql-driver/mysql"
-	"testLogin/common"
+	"testLogin1/common"
 )
 
 func main() {

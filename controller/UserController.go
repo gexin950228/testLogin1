@@ -6,9 +6,9 @@ import (
 	"github.com/jinzhu/gorm"
 	"log"
 	"net/http"
-	"testLogin/common"
-	"testLogin/model"
-	"testLogin/util"
+	"testLogin1/common"
+	"testLogin1/model"
+	"testLogin1/util"
 )
 
 func Register(ctx *gin.Context) {

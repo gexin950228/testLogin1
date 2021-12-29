@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/gin-gonic/gin"
-	"testLogin/controller"
+	"testLogin1/controller"
 )
 
 func CollectRoute(r *gin.Engine) *gin.Engine {
